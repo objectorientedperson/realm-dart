@@ -18,7 +18,7 @@ dependencies:
   build: ^2.0.0
   dart_style: ^2.2.0
   realm_common: ^3.4.2
-  source_gen: ^1.1.0
+  source_gen: ^2.0.0
   source_span: ^1.8.0
   collection: ^1.18.0
 
